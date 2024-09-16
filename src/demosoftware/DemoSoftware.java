@@ -17,6 +17,7 @@ public class DemoSoftware {
         // TODO code application logic here
         System.out.println("Hello");
         //making a change on remote
+        //showing fetch and merge
     }
     
 }
